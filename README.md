@@ -67,3 +67,7 @@ You can now enter feature ideas and get instant compliance feedback!
 - Adrian Leonardo Liang
 - Lucas Low Guo Zhang
 - John Fitzgerald
+
+## 🙏 Acknowledgments
+This project was heavily inspired by [LangChain's RAG tutorial](https://python.langchain.com/docs/tutorials/rag/). 
+We extended the concepts by adding a terminology glossary, multi-tool retrieval, and a Gradio UI for compliance checking.
