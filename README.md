@@ -53,6 +53,7 @@ Run the app by running all the cells in `TechJam.ipynb`. This will launch a Grad
 
 You can now enter feature ideas and get instant compliance feedback!
 
-## 🤔 Challenges & Learnings
-## 🚧 Roadmap / Next Steps
-## 👥 Team / Credits
+## 👥 Team 
+- Adrian Leonardo Liang
+- Lucas Low Guo Zhang
+- John Fitzgerald
