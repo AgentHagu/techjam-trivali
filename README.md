@@ -46,7 +46,7 @@ AZURE_OPENAI_CHAT_API_VERSION=your_chat_api_version_here
 Uncomment the first cell in `TechJam.ipynb` and run it to `pip install` the necessary packages. You may comment it after.
 
 ### 4. Load the policy and terminology vector store
-Run all cells in `policy_vector_store.ipynb` and `terminology_vector_store.ipynb` to load the respective vector stores with the necessary data. You only need to run this once to load the data.
+The codebase already comes with a pre-loaded vector store for both the policies and terminologies.
 
 **Updating the policy vector store** <br>
 You can update the policy vector store by adding more PDFs containing policy and regulation info to the `bills/` folder. You'll have to rerun all the cells in `policy_vector_store.ipynb` to update the vector store.
